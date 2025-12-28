@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: mcqgenerator
+Version: 0.0.1
+Author: Zubair Ahmed
+Author-email: zubairrazzaq555@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: langchain-openai
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pypdf
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
